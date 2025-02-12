@@ -35,7 +35,7 @@ If not, download it [here](https://developer.android.com/tools/releases/platform
 Or use  step `Make a firmware backup` from Build.
 
 
-# Buiid
+# Build
 
 Environment: Debian 12
 

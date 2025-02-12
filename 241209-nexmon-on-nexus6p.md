@@ -111,7 +111,7 @@ Then reboot your phone by `adb reboot` .
 
 It's not enough to just install patched firmware to the phone. We also need some utilities for testing.
 
-Thankfully, nexmon repository provides various program, like `aircrack-ng` and `iw` .
+Thankfully, nexmon repository provides various build scripts for common utilities, like `aircrack-ng` and `iw` .
 
 At least we need nexutil to control nexmon firmware. So let's build it now.
 
@@ -176,7 +176,7 @@ At least we need nexutil to control nexmon firmware. So let's build it now.
     ```
 
 
-### System-less modding approach
+### System-less modding approach (Magisk Module)
 
 If we need to use Magisk Module for nexmon, we need to modify Makefile.
 
